@@ -1,0 +1,15 @@
+
+
+Components                                                 Price(Rupees)
+
+1. Arduino                                                    400
+
+2. L298N Motor Driver                                         200
+
+
+3. DC Motor                                                   150
+
+4.  Wheels (pair)                                             200
+
+
+5. Jumper wires                                                40
